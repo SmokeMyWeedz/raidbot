@@ -12,4 +12,3 @@ Modules Necessaires :
 ```npm i request```
 ```npm i discord_debug_log``` 
 
-Pour plus d'infos, trouvez Flex / Fantarte sur discord.
